@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+myenv/
+Scripts/
+db.sqlite3
